@@ -10,4 +10,5 @@ My personal repository for tracking problem-solving consistency using **Java**
 | 1 |  Subtract the Product and Sum of Digits of an Integer | Arrays | Java     | Easy      | [Code](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) |
 | 2 | Palindrome number                                     | Arrays | Java     | Easy      | [Code](https://leetcode.com/problems/palindrome-number/description/) |
 | 3 | Build an array from permutation                       | Arrays | Java     | Easy      | [Code](https://leetcode.com/problems/build-array-from-permutation/description/)
+| 4 | Running sum of a 1d array                             | Arrays | Java     | Easy      | [Code](https://leetcode.com/problems/running-sum-of-1d-array?q=running+sum+)
 
